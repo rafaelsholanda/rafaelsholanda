@@ -1,16 +1,15 @@
-### Hi there 👋
+# Rafael Holanda
 
-<!--
-**rafaelsholanda/rafaelsholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu?
+Sou engenheiro de produção de formação e atualmente trabalho como técnico de operação off-shore na Petrobras. Sou aficionado por programação e tecnologia e pretendo me especializar e me desenvolver nessa área. 🇧🇷 
 
-Here are some ideas to get you started:
+- 💻 Estou estudando React, React Native e Typescript para implementação de futuros projetos de aplicativos.
+- 🙋‍♂️ Posso te ajudar com Excel, Access, VBA e consultas em SQL.
+- 🤓 Sou muito fã da série Harry Potter, tanto os livros quanto os filmes.
+- 📧 Entre em contato comigo pelo e-mail: rafaelholanda3105@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Redes Sociais
+
+- https://www.linkedin.com/in/rafaelsholanda/
+- https://twitter.com/rafaelsholanda
+- https://www.facebook.com/rafaelholanda3105
