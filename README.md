@@ -1,7 +1,7 @@
 # Rafael Holanda
 
 ## Quem sou eu?
-Sou formado em engenharia de produção e atualmente trabalho como técnico de operação off-shore na Petrobras. Sou um entusiasta das novas tecnologias de desenvolvimento web e apps mobile, mas pretendo me especializar em ciências de dados. 🇧🇷 
+Sou formado em engenharia de produção e atualmente trabalho como técnico de operação off-shore. Sou um entusiasta das novas tecnologias, de desenvolvimento web e apps mobile, mas pretendo me especializar em ciências de dados e inteligência artificial. 🇧🇷 
 
 - 🎲 Atualmente estou estudando ciência de dados.
 - 💻 Pretendo continuar estudando React, React Native e Typescript para implementação de futuros projetos de aplicativos.
